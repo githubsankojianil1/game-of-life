@@ -500,5 +500,6 @@
            <id>gol-repo</id>
            <name>gol-repo</name>
            <url>http://52.66.70.62:8081/nexus/content/repositories/gol-repo/</url>
-       </repository>   
+       </repository>  
+   </distributionmanagement>    
 </project>
